@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+publish/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+.DS_Store
